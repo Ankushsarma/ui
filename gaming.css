@@ -1,0 +1,334 @@
+.mediaViewInfo {
+	--web-view-name: Web 1280 – 1;
+	--web-view-id: Web_1280__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1280__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1280__1 {
+	position: absolute;
+	width: 1360px;
+	height: 2200px;
+	background: linear-gradient(269.8deg, rgba(164,164,164,1) 0%, rgba(0,0,0,1) 100%);
+	overflow: hidden;
+	--web-view-name: Web 1280 – 1;
+	--web-view-id: Web_1280__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Group_233 {
+	position: absolute;
+	width: 1076px;
+	height: 562px;
+	left: 142px;
+	top: 202px;
+	overflow: visible;
+}
+#Group_1 {
+	position: absolute;
+	width: 1076px;
+	height: 562px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#sigmund-By-tZImt0Ms-unsplash {
+	opacity: 0.83;
+	position: absolute;
+	width: 1076px;
+	height: 562px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Gaming_Master {
+	left: 91px;
+	top: 110px;
+	position: absolute;
+	overflow: visible;
+	width: 559px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 77px;
+	color: rgba(225,225,225,1);
+	letter-spacing: 0.4px;
+}
+#Rectangle_1540 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1540 {
+	position: absolute;
+	overflow: visible;
+	width: 894px;
+	height: 85px;
+	left: 91px;
+	top: 352.662px;
+}
+#Working_on_an_Android_applicat {
+	left: 98px;
+	top: 221.236px;
+	position: absolute;
+	overflow: visible;
+	width: 540px;
+	height: 94px;
+	line-height: 38px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(204,204,204,1);
+}
+#Group_234 {
+	position: absolute;
+	width: 834px;
+	height: 685px;
+	left: 263px;
+	top: 922px;
+	overflow: visible;
+}
+#yuvraj-singh-tmAynVA_ihE-unspl {
+	position: absolute;
+	width: 587px;
+	height: 437px;
+	left: 0px;
+	top: 147px;
+	overflow: visible;
+}
+#Need_for_Speed_Payback_standar {
+	position: absolute;
+	width: 548px;
+	height: 685px;
+	left: 286px;
+	top: 0px;
+	overflow: visible;
+}
+#DOWNLOAD {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161)) blur(50px);
+	left: 59px;
+	top: 421px;
+	position: absolute;
+	overflow: visible;
+	width: 445px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Viktor Script;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 79px;
+	color: rgba(0,0,0,1);
+}
+#Group_232 {
+	position: absolute;
+	width: 154px;
+	height: 67px;
+	left: 59px;
+	top: 244.048px;
+	overflow: visible;
+}
+#NEED_for__Speed_____PLAYback {
+	left: 27px;
+	top: 0.952px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Mr Eaves San OT;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Rectangle_56 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_56 {
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	height: 67px;
+	left: 0px;
+	top: 0px;
+}
+#Group_235 {
+	position: absolute;
+	width: 1360px;
+	height: 205px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1378px;
+	height: 223px;
+	left: 0px;
+	top: 0px;
+}
+#List_Item {
+	position: absolute;
+	width: 132px;
+	height: 61px;
+	left: 778px;
+	top: 23px;
+	overflow: visible;
+}
+#Rectangle_1538 {
+	fill: rgba(247,247,247,1);
+}
+.Rectangle_1538 {
+	position: absolute;
+	overflow: visible;
+	width: 132px;
+	height: 61px;
+	left: 0px;
+	top: 0px;
+}
+#Tacos {
+	left: 22px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	line-height: 38px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(96,96,96,1);
+}
+#Profile_circle {
+	position: absolute;
+	width: 45px;
+	height: 47px;
+	left: 164px;
+	top: 30px;
+	overflow: visible;
+}
+#Rectangle_1539 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1539 {
+	position: absolute;
+	overflow: visible;
+	width: 493px;
+	height: 47px;
+	left: 253px;
+	top: 30px;
+}
+#List_Item_ {
+	position: absolute;
+	width: 132px;
+	height: 61px;
+	left: 932px;
+	top: 23px;
+	overflow: visible;
+}
+#Rectangle_1538_ {
+	fill: rgba(247,247,247,1);
+}
+.Rectangle_1538_ {
+	position: absolute;
+	overflow: visible;
+	width: 132px;
+	height: 61px;
+	left: 0px;
+	top: 0px;
+}
+#Tacos_ {
+	left: 22px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	line-height: 38px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(96,96,96,1);
+}
+#List_Item_ba {
+	position: absolute;
+	width: 132px;
+	height: 61px;
+	left: 1086px;
+	top: 23px;
+	overflow: visible;
+}
+#Rectangle_1538_ba {
+	fill: rgba(247,247,247,1);
+}
+.Rectangle_1538_ba {
+	position: absolute;
+	overflow: visible;
+	width: 132px;
+	height: 61px;
+	left: 0px;
+	top: 0px;
+}
+#Tacos_ba {
+	left: 22px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	line-height: 38px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(96,96,96,1);
+}
